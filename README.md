@@ -1,0 +1,2 @@
+# ScratchExtensionProject
+Scratch Extension Test
